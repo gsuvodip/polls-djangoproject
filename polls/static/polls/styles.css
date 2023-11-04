@@ -1,0 +1,9 @@
+li a {
+  color: green;
+}
+
+/* background image is not added to git */
+body {
+  background: white url('images/background.png') no-repeat;
+  background-size: 100vw;
+}
